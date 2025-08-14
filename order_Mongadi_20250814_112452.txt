@@ -1,0 +1,12 @@
+RESTAURANT ORDER RECEIPT
+========================
+Customer: Mongadi
+Date & Time: 2025-08-14 11:24:52
+------------------------
+Burger: 1 x R65.00 = R65.00
+Chips: 2 x R25.00 = R50.00
+Drink: 1 x R15.00 = R15.00
+------------------------
+TOTAL: R130.00
+========================
+Thank you for your order!
