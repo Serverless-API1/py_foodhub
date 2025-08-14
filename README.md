@@ -163,7 +163,7 @@ Sample receipt content:
 ```
 RESTAURANT ORDER RECEIPT
 ========================
-Customer: John
+Customer: Mongadi
 Date & Time: 2024-08-14 10:30:45
 ------------------------
 Burger: 2 x R65.00 = R130.00
