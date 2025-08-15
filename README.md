@@ -55,7 +55,7 @@ The project is based on the chapters learnt on the Python Programming class offe
 
 1. **Start the Program**
    ```
-   python menu_order_system.py
+   python main.py
    ```
 
 2. **Enter Your Name**
